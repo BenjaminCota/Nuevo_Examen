@@ -1,0 +1,6 @@
+{
+  "name": "FitTrack Pulse - UI/UX Design System & App",
+  "description": "Sistema de diseño UX/UI y prototipo móvil interactivo de FitTrack: seguimiento en tiempo real con 5 sensores, nutrición, metas y entrenadores personales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
